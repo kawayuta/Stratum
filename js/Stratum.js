@@ -1,13 +1,7 @@
+
 var elementHeight = []
 var element = []
 var check
-var sum  = function(arr) {
-    var sum = 0;
-    arr.forEach(function(elm) {
-        sum += elm;
-    });
-    return sum;
-};
 
 window.addEventListener( "scroll", function() {
 
@@ -32,3 +26,12 @@ window.addEventListener( "scroll", function() {
 		}
 	}
 	} ) ;
+
+
+var sum  = function(arr) {
+    var sum = 0;
+    arr.forEach(function(elm) {
+        sum += elm;
+    });
+    return sum;
+};
