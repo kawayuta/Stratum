@@ -1,3 +1,5 @@
+![alt tag](https://github.com/mnshey/Stratum/blob/master/sample/sample.gif)
+
 # Stratum
 Seamless scroll rendering
 
