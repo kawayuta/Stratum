@@ -1,4 +1,3 @@
-
 var elementHeight = []
 var element = []
 var check
